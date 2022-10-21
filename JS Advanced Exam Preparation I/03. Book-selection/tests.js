@@ -1,11 +1,15 @@
 let {isGenreSuitable,isItAffordable,suitableTitles} = require('./solution');
 let {should} = require('chai');
 
-describe('isGenreSuitable',function(){
+describe("Tests …", function() {
+    describe("TODO …", function() {
 
-    it('Should eat my dick',function(){
+  
+        it("TODO …", function() {
+            // TODO: …
+        });
+     });
 
-    })
-
-
+  
+     // TODO: …
 });
