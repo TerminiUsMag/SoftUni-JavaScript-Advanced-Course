@@ -34,4 +34,9 @@ const bookSelection = {
   },
 };
 
+let objArr = [{ title: "The Da Vinci Code", genre: "Thriller" }, { title: "The Peaky Blinders", genre: 'Action' }];
+let genre = "Thriller";
+let result = bookSelection.suitableTitles(objArr,genre);
+console.log(result);
+
 module.exports = bookSelection;
