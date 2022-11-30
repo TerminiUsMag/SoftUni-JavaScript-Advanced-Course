@@ -20,7 +20,7 @@ In the "JS Advanced" course, you will get a deep knowledge of the JavaScript lan
 
 **6.** [Advanced Functions](https://github.com/TerminiUsMag/SoftUni-JavaScript-Advanced-Course/tree/main/Advanced%20Functions%20-%20Lab)
 
-**7.** [Unit Testing and Error Handling - (NO CODE INCLUDED)]()
+**7.** Unit Testing and Error Handling - (NO CODE INCLUDED)
 
 **8.** [Classes and Attributes](https://github.com/TerminiUsMag/SoftUni-JavaScript-Advanced-Course/tree/main/Classes%20and%20Attributes%20-%20Lab)
 
